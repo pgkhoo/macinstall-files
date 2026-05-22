@@ -7,7 +7,6 @@ configure_osx: true
 configure_dock: true
 #dockitems_remove: []
 dockitems_remove:
-  - 'Apple@SAP'
   - Contacts
   - FaceTime
   - Freeform
